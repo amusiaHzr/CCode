@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CCode/untitled/ArrayList.h
+
+D:/CCode/untitled/main.cpp
+iostream
+-
+ArrayList.h
+D:/CCode/untitled/ArrayList.h
+
